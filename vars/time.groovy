@@ -1,5 +1,3 @@
-#!/usr/bin/env groovy
-
 import groovy.time.*
 
 def duration() {
