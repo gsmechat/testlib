@@ -1,6 +1,6 @@
 import groovy.time.*
 
-def duratio() {
+def duration() {
   def timeStart = new Date()
   // Some code you want to time
   def timeStop = new Date()
