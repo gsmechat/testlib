@@ -6,5 +6,5 @@ def duration() {
   def timeStop = new Date()
   //TimeDuration duration = TimeCategory.minus(timeStop, timeStart)
 
-  return TimeCategory.minus(timeStop, timeStart)
+  return TimeCategory.minus(timeStop, timeStart) 
 }
